@@ -6,7 +6,7 @@
 
 #### Js challenge 
 
-- Print out the text inside "ajaxme.txt" into your browser using ajax + callback **or** ajax + promised. hint: dont break your promises. 
+- Print out the text inside [ajaxme.txt][5] into your browser using ajax + callback **or** ajax + promised. hint: dont break your promises. 
 
 #### Algorithm challenge
 
@@ -36,6 +36,7 @@
 [2]: http://yann.lecun.com/exdb/mnist/
 [3]: https://github.com/neonexxa/slurpslurp/blob/master/ac/ATM.pdf
 [4]: https://github.com/neonexxa/slurpslurp/blob/master/ac/PC.pdf
+[5]: https://github.com/neonexxa/slurpslurp/blob/master/ajaxme.txt
 
 [9]: https://github.com/izzatinvigour
 [10]: https://neonexxa.github.io/resume/
