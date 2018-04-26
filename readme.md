@@ -12,7 +12,7 @@
 
 - Solve **either** problems below with any of your prefered language (preferable assembly/js/python/c++)
 	- [ATM][3]
-	- ~~Packaging cupcakes~~(incoming..)
+	- [Packaging cupcakes][4]
 
 #### How to answer
 
