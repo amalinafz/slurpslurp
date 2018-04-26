@@ -34,8 +34,8 @@
 
 [1]: https://archive.ics.uci.edu/ml/datasets/iris
 [2]: http://yann.lecun.com/exdb/mnist/
-[3]: ac/ATM.pdf
-[4]: ac/ATM.pdf
+[3]: https://github.com/neonexxa/slurpslurp/blob/master/ac/ATM.pdf
+[4]: https://github.com/neonexxa/slurpslurp/blob/master/ac/PC.pdf
 
 [9]: https://github.com/izzatinvigour
 [10]: https://neonexxa.github.io/resume/
